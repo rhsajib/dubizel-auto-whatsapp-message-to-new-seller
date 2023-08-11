@@ -1,1 +1,1 @@
-# dubizel-auto-whatsapp-message-to-new-seller
+# dubizzle-auto-whatsapp-message-to-new-seller
