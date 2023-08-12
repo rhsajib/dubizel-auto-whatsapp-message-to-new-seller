@@ -1,0 +1,17 @@
+Users/
+.ipynb_checkpoints
+
+__pycache__/
+.DS_Store
+app.ipynb
+
+*.DS_Store
+*.env
+*.vscode
+
+source-code/
+
+venv/
+
+
+
